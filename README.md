@@ -1,1 +1,2 @@
-The CNN models for binary classification for Pneumonia were trained on google colab. We trained 4 CNN models for the binary classification using Sigmoid activation function in order to detect if a patient has Pneumonia or not based on their chest X-Ray images.
+The CNN models for binary classification for Pneumonia were trained on google colab. We trained four CNN models for the binary classification using Sigmoid activation function in order to detect if a patient has Pneumonia or not based on their chest X-Ray images.
+We kept the learning rate a very small value due to the fact that the models were overfitting. After some trials and failures we found the learning rate value which gave us good results which can be observed from the plot images.
